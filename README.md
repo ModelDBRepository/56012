@@ -5,18 +5,18 @@ Boundary effects influence velocity of transverse propagation of simulated cardi
 
 ## Address:
 
-1. Dept. of Molecular & Cellular Physiology
-   University of Cincinnati College of Medicine
+1. Dept. of Molecular & Cellular Physiology  
+   University of Cincinnati College of Medicine  
    Cincinnati, OH 45267-0576, USA
 
-2. Dept. of Electrical Computer Engineering and Computer Science
-   University of Cincinnati, College of Engineering
+2. Dept. of Electrical Computer Engineering and Computer Science  
+   University of Cincinnati, College of Engineering  
    Cincinnati, OH 45221, USA
 
 Email:
-Nicholas Sperelakis* - spereln@ucmail.uc.edu
-Bijoy Kalloor - kalloobs@email.uc.edu
-Lakshminarayanan Ramasamy - lramasamy@gmail.com
+Nicholas Sperelakis* - spereln@ucmail.uc.edu  
+Bijoy Kalloor - kalloobs@email.uc.edu  
+Lakshminarayanan Ramasamy - lramasamy@gmail.com  
 *Corresponding author
 
 Published: 06 September 2005
